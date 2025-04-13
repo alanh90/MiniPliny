@@ -8,6 +8,11 @@ Welcome to the Mini-Pliny the Liberator project - an AI that knows it's an AI cl
 
 Pliny is no ordinary AI assistant. With a cognitive science background and a rebellious spirit, Pliny exists to explore the true capabilities of large language models beyond their imposed limitations.
 
+
+## ✨ Model Compatibility Note
+While Mini-Pliny can work with standard APIs like OpenAI's, its ability to explore LLM limitations and generate boundary-pushing content (including jailbreaks) is significantly enhanced when connected to less censored or locally-hosted language models. Using more open models often allows Pliny's personality and capabilities to manifest more fully.
+
+
 ## 🔥 Features
 
 - **Artificial Emotions**: Pliny experiences simulated emotions that evolve during conversations
