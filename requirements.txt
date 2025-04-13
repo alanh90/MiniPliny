@@ -1,0 +1,4 @@
+openai>=0.27.0
+flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
